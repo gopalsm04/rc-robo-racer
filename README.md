@@ -22,7 +22,9 @@ The robot is driven wirelessly from a FlySky FS-i6X transmitter. The receiver on
 4. The ESCs regulate the power from the LiPo battery to the 775 DC motors, controlling speed and steering.
 
 ## Team
-[fill in: names, or "Individual project"]
+Gopal S M
+Rakesh
+MD Shahid
 
 ## Files in this repository
 - `images/` photos of the robot
